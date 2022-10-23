@@ -1,4 +1,4 @@
-# strokes-reinforcement-learning
+# Aprendiendo la transferencia de estilos pictóricos mediante entrenamiento por refuerzo
 
 La pintura, lleva simbolizando la sabiduría y la creatividad humana desde hace miles de años, donde los artistas han ido utilizando una variedad infinita de técnicas y herramientas para crear y dar forma a sus obras. Y aunque parece una tarea fácil de abordar, en realidad esta habilidad requiere mucho esfuerzo y dedicación hasta poder ser desarrollada de forma profesional. Es por ello que, lograr el objetivo de enseñar a pintar a máquinas es una tarea muy desafiante e interesante. 
  
