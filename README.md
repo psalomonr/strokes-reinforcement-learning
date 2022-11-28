@@ -12,3 +12,7 @@ Paint With Model-based Deep Reinforcement Learning, 2019.] en el que un agente e
 
 !python3 test.py --max_step=80 --img={img-name} --divide=4
 ```
+
+## Demos
+
+![](https://github.com/psalomonr/strokes-reinforcement-learning/blob/develop/2.reinforcement-learningv1.0/demo/demo.gif)
