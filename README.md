@@ -11,5 +11,5 @@ En el presente trabajo se entrenará una red neuronal para aprender a generar pi
 ```
 !python3 train.py --max_step=40 --debug --batch_size=96 
 
-!python3 test.py --max_step=80 --img=will.png --divide=4
+!python3 test.py --max_step=80 --img={img-name} --divide=4
 ```
